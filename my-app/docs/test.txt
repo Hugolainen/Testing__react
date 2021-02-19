@@ -1,4 +1,0 @@
-This is a test of the master/docs deployement method
-
-From package.json Scripts
-"build": "react-scripts build",
